@@ -21,6 +21,7 @@ int findSum(int a[],int n)
     }
     }
     return max;
+    // This program is important
 }
 
 int main()
